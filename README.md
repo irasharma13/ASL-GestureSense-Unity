@@ -1,6 +1,6 @@
-Treehacks 2024
+#Treehacks 2024
 
-# ASL GestureSense Unity
+## ASL GestureSense Unity
 
 ASL GestureSense Unity is a project aimed at bringing American Sign Language (ASL) to life in virtual environments. It enables developers to create applications that recognize ASL gestures in real-time, fostering natural and inclusive interactions for the deaf and hard of hearing community.
 
