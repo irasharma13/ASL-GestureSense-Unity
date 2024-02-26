@@ -11,3 +11,6 @@ To run the ASL GestureSense Unity application, you'll need the following:
 1. **Unity**: Ensure you have Unity installed on your development machine. You can download it from [Unity's official website](https://unity.com/).
 
 2. **Meta Quest 2**: You'll need a Meta Quest 2 device to experience the application in virtual reality. The Meta Quest 2 provides the hardware necessary for immersive interactions.
+
+![Gesture Recognition](Gesture_recognition.png)
+
